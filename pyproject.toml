@@ -6,7 +6,6 @@ dependencies = [
     "prettytable",
     "matplotlib",
     "ipykernel",
-    "spacy",
     "pandas",
     "tqdm",
     "ipykernel",
